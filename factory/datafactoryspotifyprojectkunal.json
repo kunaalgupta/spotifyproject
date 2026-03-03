@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryspotifyprojectkunal",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a1a96e5-0931-4231-9fa4-541835f514f2",
+		"tenantId": "5be0d77a-d004-402d-b834-2f2d0c2895bb"
+	}
+}
