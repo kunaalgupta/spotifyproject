@@ -1,0 +1,17 @@
+{
+	"name": "azuresql",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "azureprojectserverkunal.database.windows.net",
+			"database": "azureprojectkunaldb",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "kunalgupta",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEUyMDk5NjgyLUI4MjEtNEQxMi05RkM1LUJFOTFFMkUyMjg1M183N2EyZTFkZC1hNjdhLTQ2YzUtYWRkOS1hMzg3ZGJkYTc4ZjYiDQp9"
+		}
+	}
+}
